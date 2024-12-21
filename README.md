@@ -23,12 +23,13 @@
 </ul>
 
 <h3 align="left" style="color:#d4a373">
-  Our Team: <img src="https://www.webifo.com/Webifo-Logo.svg" alt="Webifo Logo" width="100" height="100" style="vertical-align:middle; margin-right:10px;">
+  Our Team: <img src="webifo.png" alt="Webifo Logo" width="10%" height="20" style="margin-right:10px;">
 </h3>
 <p style="color:#e9edc9; font-size:16px;">
   At <strong style="color:#faedcd;">Webifo</strong>, we are a group of passionate developers, designers, and thinkers working together to build intuitive and impactful software solutions.
-  Check out more at <a href="https://www.webifo.com" style="color:#d4a373;">webifo.com</a>
+  Check out more at <a href="https://www.webifo.com" target="_blank" rel="noopener noreferrer" style="color:#d4a373;">webifo.com</a>
 </p>
+
 
 
 <h3 align="left" style="color:#d4a373">Socials:</h3>
