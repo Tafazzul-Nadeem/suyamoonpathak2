@@ -23,7 +23,7 @@
 </ul>
 
 <h3 align="left" style="color:#d4a373">
-  Our Team: <img src="webifo.png" alt="Webifo Logo" width="10%" height="20" style="margin-right:10px;">
+  Our Team: <img src="webifo.png" alt="Webifo Logo" width="10%" height="15px" style="margin-right:10px;">
 </h3>
 <p style="color:#e9edc9; font-size:16px;">
   At <strong style="color:#faedcd;">Webifo</strong>, we are a group of passionate developers, designers, and thinkers working together to build intuitive and impactful software solutions.
