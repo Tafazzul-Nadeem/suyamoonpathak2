@@ -100,5 +100,3 @@
 
 <h3 align="left" style="color:#d4a373">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/suyamoon"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="suyamoon" style="border:2px solid #faedcd; border-radius:8px;"/></a></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyamoonpathak&theme=gruvbox_duo&ring=d4a373&fire=d4a373&currStreakNum=faedcd" alt="suyamoonpathak" /></p>
