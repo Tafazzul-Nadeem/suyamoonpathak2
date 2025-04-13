@@ -4,9 +4,9 @@
 
 <h3 align="left" style="color:#d4a373">Education:</h3>
 <ul style="color:#e9edc9; font-size:16px;">
-  <li>M.Tech in Computer Science, IIT Kanpur (2024-2026)</li>
-  <li>B.S. in Data Science, IIT Madras (2021-2025)</li>
-  <li>B.Tech in Computer Science, PDEU Gujarat (2020-2024)</li>
+  <li>M.Tech Computer Science & Engineering, IIT Kanpur (2024-2026)</li>
+  <li>B.S. Data Science & Applications, IIT Madras (2021-2025)</li>
+  <li>B.Tech Computer Science & Engineering, PDEU Gujarat (2020-2024)</li>
 </ul>
 
 <h3 align="left" style="color:#d4a373">Work Experience:</h3>
