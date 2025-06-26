@@ -18,7 +18,7 @@
 <h3 align="left" style="color:#d4a373">Get in Touch:</h3>
 <ul style="color:#ccd5ae; font-size:16px;">
   <li>📧 Reach me at <strong style="color:#faedcd">suyamoonpathak@gmail.com</strong></li>
-  <li>🔐 Check out my experiences and projects in my <a href="https://github.com/suyamoonpathak/resume/blob/master/Resume_ML.pdf" style="color:#d4a373">resume</a></li>
+  <li>🔐 Check out my experiences and projects in my <a href="https://github.com/suyamoonpathak/resume/blob/master/Resume_DS_after_second_Sem_at_IITK.pdf" style="color:#d4a373">resume</a></li>
   <li>📝 I write about technology, insights, and more on <a href="https://medium.com/@suyamoonpathak" style="color:#d4a373">medium.com/@suyamoonpathak</a></li>
 </ul>
 
